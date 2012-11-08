@@ -1,0 +1,17 @@
+{
+  "name": "component-css-test",
+  "repo": "karlbohlmark/component-css-test",
+  "description": "Test how component rewrites css",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "component-css-test.css",
+    "css/sub.css"
+  ],
+  "files": [
+    "img/icon.png"
+  ]
+}
